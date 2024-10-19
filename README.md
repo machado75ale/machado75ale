@@ -14,3 +14,5 @@ You can click the Preview link to take a look at your changes.
 [![Linkedin](https://github.com/user-attachments/assets/4a5b3fb3-12b7-4ede-9137-6a47fad8092f)](https://www.linkedin.com/in/machado-ale/)
 
 ## Ferramentas de Design que Uso
+![image](https://github.com/user-attachments/assets/c70e831f-56ac-40a0-93b5-d2ec276354ed) 
+
