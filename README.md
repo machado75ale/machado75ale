@@ -15,4 +15,5 @@ You can click the Preview link to take a look at your changes.
 
 ## Ferramentas de Design que Uso
 ![image](https://github.com/user-attachments/assets/c70e831f-56ac-40a0-93b5-d2ec276354ed) 
-
+![image](https://github.com/user-attachments/assets/25035d9a-b19e-4e9c-a9bc-070bd7290ec4)
+![image](https://github.com/user-attachments/assets/2aaca979-39f1-40d5-b146-c2e03aaf58b1)
