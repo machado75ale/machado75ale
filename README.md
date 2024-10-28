@@ -1,5 +1,5 @@
 ## Blê eu sou o ALÊ! 🙋‍♂️
-Brand Designer | Graphic Designer | UX/UI Designer under construction | Photographer
+Design with IA (UC) | UX/UI Designer with IA (UC) | Brand Designer | Graphic Designer | Photographer | Assistente de Cerimonial
 
 ![machado75ale's Stats](https://github-readme-stats.vercel.app/api?username=machado75ale&theme=dracula&show_icons=true&hide_border=true&count_private=false)
 <!---
